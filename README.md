@@ -23,6 +23,3 @@ This project contains a Python script designed to scrape business-related articl
 - Structured DataFrame
 - Saved Excel File (`.xlsx`)
 - (Optional) Insertion into a SQL Server or any relational database.
-
-## 🚀 Current Status
-- This project is under development and will be improved to clean and filter the extracted content more accurately.
